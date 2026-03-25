@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_final/
 
 # Spyder project settings
 .spyderproject
@@ -213,6 +214,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
 
 # Java #
 *.class
